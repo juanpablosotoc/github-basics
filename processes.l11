@@ -1,0 +1,540 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      377  13.5  1.1 410481152 178736   ??  Ss   Tue03PM  96:29.19 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root               371   3.0  0.1 408300960  13376   ??  Ss   Tue03PM   1:48.99 /usr/libexec/corebrightnessd --launchd
+juanasoto          579   2.7  0.5 410134560  76352   ??  S    Tue03PM   1:16.76 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+root              4178   1.6  0.2 408313104  28688   ??  Ss    2:33PM   1:01.48 /usr/libexec/PerfPowerServices
+juanasoto          563   0.7  2.1 442774896 360416   ??  S    Tue03PM   9:50.58 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+root               308   0.3  0.3 408410496  47360   ??  Ss   Tue03PM   1:38.53 /usr/libexec/logd
+_mysql             665   0.1  2.1 410174032 351696   ??  Ss   Tue03PM   3:01.69 /usr/local/mysql/bin/mysqld --user=_mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data --plugin-dir=/usr/local/mysql/lib/plugin --log-error=/usr/local/mysql/data/mysqld.local.err --pid-file=/usr/local/mysql/data/mysqld.local.pid --keyring-file-data=/usr/local/mysql/keyring/keyring --early-plugin-load=keyring_file=keyring_file.so
+juanasoto         3374   0.1  1.7 410550288 291024   ??  S    Tue09PM   8:10.07 /Applications/Spotify.app/Contents/MacOS/Spotify
+root               489   0.1  0.1 408306512  16864   ??  Ss   Tue03PM   1:35.48 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CAReportingService.xpc/Contents/MacOS/CAReportingService
+juanasoto         4989   0.0  0.0 408816976   4000   ??  Ss   11:36PM   0:00.02 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto         4987   0.0  0.1 409125008  14720   ??  Ss   11:36PM   0:00.21 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto         4986   0.0  0.5 515007424  77680   ??  Ss   11:36PM   0:02.01 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+juanasoto         4970   0.0  0.1 408304416   9600   ??  S    11:36PM   0:00.15 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+juanasoto         4969   0.0  0.1 413511360  12784   ??  Ss   11:36PM   0:00.18 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+juanasoto         4967   0.0  0.0 408235056   3952   ??  Ss   11:36PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto         4966   0.0  0.4 515136320  74496   ??  Ss   11:36PM   0:01.56 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+juanasoto         4964   0.0  0.0 408074256   2656   ??  Ss   11:36PM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+juanasoto         4963   0.0  0.0 408270960   4240   ??  S    11:36PM   0:00.02 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+juanasoto         4961   0.0  1.1 415035456 192640   ??  S    11:36PM   0:38.33 /System/Applications/Mail.app/Contents/MacOS/Mail
+root              4901   0.0  0.0 408064592   3840   ??  Ss   11:29PM   0:00.03 /usr/libexec/applessdstatistics
+_accessoryupdater  4797   0.0  0.1 408093840   8816   ??  Ss    8:41PM   0:00.10 /System/Library/PrivateFrameworks/CoreSpeech.framework/Versions/A/XPCServices/CoreSpeechXPC.xpc/Contents/MacOS/CoreSpeechXPC
+juanasoto         4790   0.0  0.1 408311904  12896   ??  S     8:36PM   0:00.20 /System/Library/PrivateFrameworks/Translation.framework/translationd
+juanasoto         4789   0.0  0.1 408312592  20720   ??  S     8:36PM   0:00.27 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+juanasoto         4787   0.0  0.0 408817808   5024   ??  Ss    8:35PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto         4247   0.0  0.2 408319808  30128   ??  S     3:28PM   0:10.71 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+juanasoto         4232   0.0  0.2 408270240  30176   ??  S     2:52PM   0:00.33 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+juanasoto         4233   0.0  0.1 408306368  21200   ??  S     2:52PM   0:03.91 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+juanasoto         4230   0.0  0.1 408303536  14144   ??  S     2:52PM   0:00.87 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+juanasoto         4220   0.0  0.1 408299648  16608   ??  S     2:52PM   0:00.11 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+root              4212   0.0  0.1 408316288  13328   ??  Ss    2:52PM   0:00.70 /System/Library/CoreServices/iconservicesagent runAsRoot
+juanasoto         4195   0.0  0.1 408231840   9984   ??  S     2:51PM   0:00.07 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+juanasoto         4194   0.0  0.1 408112752   8432   ??  S     2:51PM   0:00.07 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+juanasoto         4193   0.0  0.1 408226512   9216   ??  S     2:51PM   0:00.06 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+juanasoto         4192   0.0  0.2 408320000  25504   ??  S     2:51PM   0:01.23 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+juanasoto         4191   0.0  0.1 408260848  11552   ??  Ss    2:51PM   0:00.08 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+juanasoto         4189   0.0  0.1 408368288  10928   ??  Ss    2:51PM   0:01.57 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+juanasoto         4168   0.0  0.1 408233632  24080   ??  Ss   Wed02PM   0:00.85 /System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.ImageConversionService.xpc/Contents/MacOS/com.apple.photos.ImageConversionService
+root              4156   0.0  0.0 408226256   5504   ??  Ss   Wed02PM   0:00.03 /usr/bin/sysdiagnose
+juanasoto         4154   0.0  0.0 408221792   5904   ??  S    Wed02PM   0:00.08 /usr/libexec/proactived
+juanasoto         4141   0.0  0.0 408667264   5168   ??  Ss   Wed02PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+juanasoto         4140   0.0  0.1 408834336  11552   ??  Ss   Wed02PM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/AccountSubscriber.xpc/Contents/MacOS/AccountSubscriber
+juanasoto         4139   0.0  0.0 408637536   4464   ??  Ss   Wed02PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+juanasoto         4138   0.0  0.0 408637536   4464   ??  Ss   Wed02PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+juanasoto         4137   0.0  0.0 408637536   4480   ??  Ss   Wed02PM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+juanasoto         4135   0.0  0.0 408227488   6528   ??  S    Wed02PM   0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/RemoteManagementAgent
+root              4134   0.0  0.0 408093728   5136   ??  Ss   Wed02PM   0:00.03 /usr/libexec/microstackshot
+root              4132   0.0  0.0 408194528   1968   ??  Ss   Wed01PM   0:00.07 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+juanasoto         4131   0.0  0.1 412817328  17920   ??  S    Wed01PM   0:00.77 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+root              4039   0.0  0.0 408055824    432   ??  SNs  Wed01PM   0:00.01 /usr/libexec/periodic-wrapper daily
+juanasoto         4038   0.0  0.0 408093888   5616   ??  S    Wed01PM   0:00.03 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+_accessoryupdater  4037   0.0  0.1 408298224  16624   ??  Ss   Wed01PM   0:00.32 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+juanasoto         4036   0.0  0.1 408167312  14688   ??  S    Wed01PM   0:00.35 /usr/sbin/BTLEServerAgent
+root              4034   0.0  0.0 408064720   2384   ??  Ss   Wed01PM   0:00.02 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+juanasoto         4033   0.0  0.0 408506832   7088   ??  S    Wed01PM   0:00.03 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged
+_accessoryupdater  4026   0.0  0.0 408224912   4144   ??  Ss   Wed01PM   0:00.06 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+juanasoto         4025   0.0  0.1 408254512  11456   ??  S    Wed01PM   0:00.24 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+root              4009   0.0  0.0 408266688   8144   ??  Ss   Wed01PM   0:00.19 /usr/libexec/dprivacyd
+juanasoto         4006   0.0  0.0 408093488   7392   ??  S    Wed01PM   0:00.20 /usr/libexec/backgroundassets.user
+juanasoto         4002   0.0  0.1 408317600  19056   ??  S    Wed01PM   0:00.95 /usr/libexec/tipsd
+juanasoto         3999   0.0  0.1 408274832  13088   ??  S    Wed01PM   0:00.22 /System/Library/CoreServices/mapspushd
+root              3995   0.0  0.0 408063488   7472   ??  Ss   Wed01PM   0:00.03 /usr/libexec/griddatad
+juanasoto         3992   0.0  0.2 408342048  27728   ??  S    Wed01PM   0:08.25 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/knowledgeconstructiond
+_accessoryupdater  3990   0.0  0.0 408224800   4000   ??  S    Wed01PM   0:00.09 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_accessoryupdater  3989   0.0  0.1 408230112   8608   ??  S    Wed01PM   0:00.46 /usr/libexec/trustd --agent
+_accessoryupdater  3988   0.0  0.0 408196112   2368   ??  S    Wed01PM   0:00.07 /usr/sbin/cfprefsd agent
+_accessoryupdater  3987   0.0  0.0 408225824   3920   ??  S    Wed01PM   0:00.07 /usr/libexec/secinitd
+_accessoryupdater  3986   0.0  0.1 408267216  12464   ??  S    Wed01PM   0:02.17 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+juanasoto         3985   0.0  0.1 408713440  20336   ??  S    Wed01PM   0:01.60 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+_accessoryupdater  3984   0.0  0.0 408829056   7040   ??  Ss   Wed01PM   0:00.29 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+_accessoryupdater  3983   0.0  0.1 408283040  12384   ??  Ss   Wed01PM   0:00.23 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+root              3982   0.0  0.1 408292848   9968   ??  Ss   Wed01PM   0:00.20 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+juanasoto         3926   0.0  0.0 408326192   3280   ??  Ss   Wed11AM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto         3907   0.0  0.3 408400416  54928   ??  S    Wed11AM   0:11.64 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+juanasoto         3902   0.0  0.1 408297680  19152   ??  S    Wed11AM   0:01.91 cloudphotod
+juanasoto         3826   0.0  0.1 408268800  13936   ??  S    Wed10AM   0:00.28 /usr/libexec/mlruntimed
+juanasoto         3825   0.0  0.0 408250448   7680   ??  S    Wed10AM   0:00.03 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
+juanasoto         3617   0.0  0.0 408262784   5264   ??  S    Wed12AM   0:00.24 /System/Library/CoreServices/ScopedBookmarkAgent
+juanasoto         3615   0.0  0.1 408761088  19184   ??  Ss   Wed12AM   0:00.36 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+juanasoto         3614   0.0  0.3 408941376  45696   ??  Ss   Wed12AM   0:01.09 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+juanasoto         3613   0.0  0.1 408326576  19328   ??  S    Wed12AM   0:00.56 /usr/libexec/naturallanguaged
+juanasoto         3612   0.0  0.1 408284528  12624   ??  S    Wed12AM   0:00.33 /usr/libexec/keyboardservicesd
+juanasoto         3611   0.0  0.3 408594016  46224   ??  S    Wed12AM   0:03.32 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+juanasoto         3610   0.0  0.0 408074384   3600   ??  S    Wed12AM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+juanasoto         3609   0.0  0.4 410135264  58848   ??  S    Wed12AM   0:02.89 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+juanasoto         3603   0.0  0.1 408326720  17904   ??  Ss   Wed12AM   0:00.06 /System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/PlugIns/ThumbnailExtension_macOS.appex/Contents/MacOS/ThumbnailExtension_macOS -AppleLanguages ("en-MX", "es-MX")
+juanasoto         3594   0.0  0.0 408253152   6864   ??  Ss   Wed12AM   0:00.04 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+juanasoto         3590   0.0  0.2 412973440  28272   ??  Ss   Wed12AM   0:00.15 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+juanasoto         3558   0.0  0.1 408224480  16368   ??  S    Wed12AM   0:00.13 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+root              3514   0.0  0.0 408064128   5296   ??  Ss   Tue11PM   0:00.03 /usr/libexec/tzd
+juanasoto         3506   0.0  0.1 408227920  12752   ??  S    Tue11PM   0:00.13 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+juanasoto         3504   0.0  0.1 408225776  15248   ??  S    Tue11PM   0:00.08 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+juanasoto         3499   0.0  0.0 408249856   3984   ??  S    Tue11PM   0:00.04 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+juanasoto         3487   0.0  0.1 408299776  12448   ??  S    Tue09PM   0:00.70 /System/Library/CoreServices/rcd.app/Contents/MacOS/rcd
+juanasoto         3398   0.0  0.1 408827520   8720   ??  Ss   Tue09PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto         3387   0.0  2.2 461097664 376032   ??  S    Tue09PM   6:15.25 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (Renderer).app/Contents/MacOS/Spotify Helper (Renderer) --type=renderer --log-severity=disable --user-agent-product=Chrome/111.0.5563.65 Spotify/1.2.8.923 --disable-scroll-bounce --disable-spell-checking --user-data-dir=/Users/juanasoto/Library/Application Support/Spotify/User Data --first-renderer-process --log-file=/Users/juanasoto/Library/Logs/Spotify_debug.log --lang=en --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=5 --time-ticks-at-unix-epoch=-1681864043102631 --launch-time-ticks=11044112979 --shared-files --field-trial-handle=1718379636,r,2287210136587853742,3442493353246129395,131072 --disable-features=BackForwardCache --seatbelt-client=75
+juanasoto         3383   0.0  0.4 410160320  65168   ??  S    Tue09PM   0:41.57 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en --service-sandbox-type=network --use-mock-keychain --log-severity=disable --user-agent-product=Chrome/111.0.5563.65 Spotify/1.2.8.923 --lang=en --user-data-dir=/Users/juanasoto/Library/Application Support/Spotify/User Data --log-file=/Users/juanasoto/Library/Logs/Spotify_debug.log --shared-files --field-trial-handle=1718379636,r,2287210136587853742,3442493353246129395,131072 --disable-features=BackForwardCache --seatbelt-client=35
+juanasoto         3382   0.0  0.2 409346448  29280   ??  S    Tue09PM   0:00.73 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en --service-sandbox-type=service --use-mock-keychain --log-severity=disable --user-agent-product=Chrome/111.0.5563.65 Spotify/1.2.8.923 --lang=en --user-data-dir=/Users/juanasoto/Library/Application Support/Spotify/User Data --log-file=/Users/juanasoto/Library/Logs/Spotify_debug.log --shared-files --field-trial-handle=1718379636,r,2287210136587853742,3442493353246129395,131072 --disable-features=BackForwardCache --seatbelt-client=35
+juanasoto         3381   0.0  0.0 409122288   6000   ??  Ss   Tue09PM   0:00.08 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+juanasoto         3380   0.0  0.5 410258864  89600   ??  S    Tue09PM   3:45.41 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (GPU).app/Contents/MacOS/Spotify Helper (GPU) --type=gpu-process --log-severity=disable --user-agent-product=Chrome/111.0.5563.65 Spotify/1.2.8.923 --lang=en --user-data-dir=/Users/juanasoto/Library/Application Support/Spotify/User Data --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAGgHAAAAAAAAaAcAAAAAAAB4AgAATgAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAAAADAAAAAAAACAMAAAAAAAAQAwAAAAAAABgDAAAAAAAAIAMAAAAAAAAoAwAAAAAAADADAAAAAAAAOAMAAAAAAABAAwAAAAAAAEgDAAAAAAAAUAMAAAAAAABYAwAAAAAAAGADAAAAAAAAaAMAAAAAAABwAwAAAAAAAHgDAAAAAAAAgAMAAAAAAACIAwAAAAAAAJADAAAAAAAAmAMAAAAAAACgAwAAAAAAAKgDAAAAAAAAsAMAAAAAAAC4AwAAAAAAAMADAAAAAAAAyAMAAAAAAADQAwAAAAAAANgDAAAAAAAA4AMAAAAAAADoAwAAAAAAAPADAAAAAAAA+AMAAAAAAAAABAAAAAAAAAgEAAAAAAAAEAQAAAAAAAAYBAAAAAAAACAEAAAAAAAAKAQAAAAAAAAwBAAAAAAAADgEAAAAAAAAQAQAAAAAAABIBAAAAAAAAFAEAAAAAAAAWAQAAAAAAABgBAAAAAAAAGgEAAAAAAAAcAQAAAAAAAB4BAAAAAAAAIAEAAAAAAAAiAQAAAAAAACQBAAAAAAAAJgEAAAAAAAAoAQAAAAAAACoBAAAAAAAALAEAAAAAAAAuAQAAAAAAADABAAAAAAAAMgEAAAAAAAA0AQAAAAAAADYBAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAJAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAAAAAAADwAAABAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAAAQAAABAAAAAAAAAAAQAAAAIAAAAQAAAAAAAAAAEAAAADAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAEAAAAQAAAAEAAAAAAAAAAEAAAAAAAAABAAAAAAAAAABAAAAAEAAAAQAAAAAAAAAAQAAAACAAAAEAAAAAAAAAAEAAAAAwAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAkAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADAAAABAAAAAAAAAABAAAAA4AAAAQAAAAAAAAAAQAAAAPAAAAEAAAAAAAAAAEAAAAEAAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAABAAAAEAAAAAAAAAAHAAAAAgAAABAAAAAAAAAABwAAAAMAAAAQAAAAAAAAAAcAAAAGAAAAEAAAAAAAAAAHAAAABwAAABAAAAAAAAAABwAAAAgAAAAQAAAAAAAAAAcAAAAJAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAAwAAAAQAAAAAAAAAAcAAAAOAAAAEAAAAAAAAAAHAAAADwAAABAAAAAAAAAABwAAABAAAAAQAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAIAAAAAQAAABAAAAAAAAAACAAAAAIAAAAQAAAAAAAAAAgAAAADAAAAEAAAAAAAAAAIAAAABgAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAgAAAAQAAAAEAAAAAAAAAAKAAAAAAAAABAAAAAAAAAACgAAAAEAAAAQAAAAAAAAAAoAAAACAAAAEAAAAAAAAAAKAAAAAwAAABAAAAAAAAAACgAAAAYAAAAQAAAAAAAAAAoAAAAHAAAAEAAAAAAAAAAKAAAACAAAABAAAAAAAAAACgAAAAkAAAAQAAAAAAAAAAoAAAALAAAAEAAAAAAAAAAKAAAADAAAABAAAAAAAAAACgAAAA4AAAAQAAAAAAAAAAoAAAAPAAAAEAAAAAAAAAAKAAAAEAAAAAgAAAAAAAAACAAAAAAAAAA= --log-file=/Users/juanasoto/Library/Logs/Spotify_debug.log --shared-files --field-trial-handle=1718379636,r,2287210136587853742,3442493353246129395,131072 --disable-features=BackForwardCache --seatbelt-client=20
+juanasoto         3376   0.0  0.1 409435888  23440   ??  S    Tue09PM   0:00.40 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --monitor-self-annotation=ptype=crashpad-handler --type=crashpad-handler --max-uploads=5 --max-db-size=20 --max-db-age=5 --database=/Users/juanasoto/Library/Application Support/Spotify/User Data --url=https://crashdump.spotify.com:443/ --annotation=platform=macosarm64 --annotation=product=spotify --annotation=version=1.2.8.923 --handshake-fd=6
+juanasoto         3198   0.0  0.2 408314496  39120   ??  S    Tue08PM   0:04.81 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+juanasoto         3051   0.0  0.1 408346928  20512   ??  S    Tue07PM   0:00.49 /System/Library/PrivateFrameworks/PaperKit.framework/Contents/LinkedNotesUIService.app/Contents/MacOS/LinkedNotesUIService
+juanasoto         2992   0.0  0.0 408064000   1808   ??  S    Tue06PM   0:00.02 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+root              1194   0.0  0.0 408300880   7312   ??  Ss   Tue06PM   0:07.68 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+juanasoto         1143   0.0  0.4 1593591376  62784   ??  S    Tue06PM   0:01.73 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=64 --time-ticks-at-unix-epoch=-1681853409315398 --launch-time-ticks=3111879380 --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=149
+juanasoto         1124   0.0  0.0 408213552   3312   ??  Ss   Tue06PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto         1118   0.0  0.1 408296720  13248   ??  S    Tue05PM   0:00.30 /usr/libexec/appleaccountd
+juanasoto         1108   0.0  0.1 409711264  19008   ??  S    Tue05PM   0:08.36 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+juanasoto         1105   0.0  0.1 409686736  18304   ??  S    Tue05PM   0:05.59 /System/Library/CoreServices/LocationMenu.app/Contents/MacOS/LocationMenu
+juanasoto         1104   0.0  0.0 408221744   3280   ??  Ss   Tue05PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto         1103   0.0  0.0 408215600   3280   ??  Ss   Tue05PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto         1102   0.0  8.1 443454768 1366144   ??  S    Tue05PM  42:05.40 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=media.mojom.CdmServiceBroker --lang=en-US --service-sandbox-type=cdm --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=128
+juanasoto         1101   0.0  0.0 408208432   3296   ??  Ss   Tue05PM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root              1078   0.0  0.0 408064032   5120   ??  Ss   Tue05PM   0:00.14 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+root              1079   0.0  0.0 408064032   4880   ??  Ss   Tue05PM   0:00.14 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root              1077   0.0  0.1 408272832  13968   ??  Ss   Tue05PM   0:00.23 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+juanasoto         1080   0.0  0.0 408224880   7488   ??  S    Tue05PM   0:00.05 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+juanasoto         1076   0.0  0.1 408196144   8944   ??  S    Tue05PM   0:00.08 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root              1075   0.0  0.0 408082448   2576   ??  Ss   Tue05PM   0:00.06 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+juanasoto         1069   0.0  0.1 408233760  13488   ??  S    Tue05PM   0:00.65 /usr/libexec/promotedcontentd
+root              1066   0.0  0.0 408195696   4288   ??  Ss   Tue05PM   0:00.04 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedTaskService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedTaskService
+_installcoordinationd  1064   0.0  0.0 408242352   5008   ??  Ss   Tue05PM   0:00.03 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+juanasoto         1051   0.0  0.2 409730672  30800   ??  S    Tue05PM   0:01.55 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+root              1039   0.0  0.1 408229920   9312   ??  Ss   Tue04PM   0:00.74 /usr/libexec/powerdatad
+juanasoto         1033   0.0  0.1 408303696  15008   ??  S    Tue04PM   0:00.46 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+root              1030   0.0  0.0 408272928   4272   ??  S    Tue04PM   0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root              1029   0.0  0.1 408316064  20368   ??  S    Tue04PM   0:05.26 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+juanasoto         1028   0.0  0.0 408281088   7184   ??  S    Tue04PM   0:00.19 /usr/libexec/proactiveeventtrackerd
+juanasoto         1025   0.0  0.1 409824288   9072   ??  S    Tue04PM   0:00.10 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+juanasoto         1018   0.0  0.0 408506016   3824   ??  S    Tue04PM   0:00.03 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+juanasoto         1020   0.0  0.1 408230224   9808   ??  S    Tue04PM   0:00.39 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+root              1021   0.0  0.0 408667488   4864   ??  Ss   Tue04PM   0:00.03 /usr/libexec/memoryanalyticsd -xlatS
+juanasoto         1022   0.0  0.1 408297360  20576   ??  S    Tue04PM   0:04.38 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+juanasoto         1019   0.0  0.1 408464384  22416   ??  S    Tue04PM   0:00.76 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+juanasoto         1017   0.0  0.1 408706784  23504   ??  S    Tue03PM   0:00.81 /System/Library/Frameworks/CoreSpotlight.framework/CoreSpotlightService
+root              1016   0.0  0.0 408506016   3792   ??  Ss   Tue03PM   0:00.04 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+juanasoto         1015   0.0  0.0 408261120   3664   ??  S    Tue03PM   0:00.03 /usr/libexec/metrickitd
+juanasoto         1012   0.0  0.2 408336992  32304   ??  S    Tue03PM   0:04.15 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+root              1013   0.0  0.0 408300480   8352   ??  Ss   Tue03PM   0:00.15 /usr/libexec/ASPCarryLog
+_rmd              1011   0.0  0.0 408667248   4976   ??  Ss   Tue03PM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+_rmd              1010   0.0  0.0 408768800   7984   ??  Ss   Tue03PM   0:00.05 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/AccountSubscriber.xpc/Contents/MacOS/AccountSubscriber
+_rmd              1009   0.0  0.0 408637536   4432   ??  Ss   Tue03PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd              1008   0.0  0.0 408637536   4432   ??  Ss   Tue03PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_rmd              1006   0.0  0.0 408637536   4448   ??  Ss   Tue03PM   0:00.04 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd              1007   0.0  0.0 408185312   1904   ??  S    Tue03PM   0:00.95 /usr/sbin/distnoted agent
+_rmd              1004   0.0  0.0 408227472   6352   ??  Ss   Tue03PM   0:00.10 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+juanasoto         1005   0.0  0.1 408293344  11424   ??  S    Tue03PM   0:00.49 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/intelligenceplatformd
+juanasoto         1000   0.0  0.4 408560560  60224   ??  Ss   Tue03PM   0:17.80 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+juanasoto          999   0.0  0.1 408299296  13296   ??  S    Tue03PM   0:00.65 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+juanasoto          998   0.0  0.1 408236224  11968   ??  Ss   Tue03PM   0:00.39 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+juanasoto          997   0.0  0.1 412824192  20048   ??  S    Tue03PM   0:00.59 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+juanasoto          995   0.0  0.2 409793936  32144   ??  S    Tue03PM   0:01.18 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+juanasoto          994   0.0  0.4 408548336  67808   ??  Ss   Tue03PM   0:14.86 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+juanasoto          993   0.0  0.4 408447168  70624   ??  Ss   Tue03PM   0:07.05 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+juanasoto          992   0.0  0.3 408333088  49632   ??  Ss   Tue03PM   0:06.55 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+juanasoto          991   0.0  0.4 408540688  62640   ??  Ss   Tue03PM   0:09.07 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+_spotlight         985   0.0  0.0 408231376   2320   ??  S    Tue03PM   0:00.03 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_spotlight         980   0.0  0.0 408273520   6864   ??  S    Tue03PM   0:00.48 /usr/libexec/trustd --agent
+juanasoto          977   0.0  0.0 408251968   5616   ??  S    Tue03PM   0:00.48 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_spotlight         976   0.0  0.1 408246864  14064   ??  SN   Tue03PM   0:02.58 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+root               973   0.0  0.0 408065104   2448   ??  Ss   Tue03PM   0:00.11 /usr/libexec/online-authd
+juanasoto          958   0.0  0.0 408110192   1728   ??  Ss   Tue03PM   0:00.00 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+juanasoto          957   0.0  0.2 408341216  36512   ??  Ss   Tue03PM   0:02.47 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+juanasoto          956   0.0  0.1 408158752  18896   ??  Ss   Tue03PM   0:00.02 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension
+juanasoto          955   0.0  0.1 408298224  11456   ??  Ss   Tue03PM   0:00.04 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/Extensions/SafariLinkExtension.appex/Contents/MacOS/SafariLinkExtension
+juanasoto          954   0.0  0.1 408296976  16352   ??  Ss   Tue03PM   0:00.03 /System/Applications/Mail.app/Contents/Extensions/MailShortcutsExtension.appex/Contents/MacOS/MailShortcutsExtension
+juanasoto          953   0.0  0.1 408165904  12736   ??  Ss   Tue03PM   0:00.04 /System/Applications/Calendar.app/Contents/Extensions/CalendarFocusConfigurationExtension.appex/Contents/MacOS/CalendarFocusConfigurationExtension
+juanasoto          952   0.0  0.0 408195664   4336   ??  Ss   Tue03PM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+juanasoto          951   0.0  0.2 408307280  28720   ??  S    Tue03PM   0:03.61 /usr/libexec/biomesyncd
+juanasoto          950   0.0  0.4 1593601616  65776   ??  S    Tue03PM   0:01.85 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=52 --time-ticks-at-unix-epoch=-1681853409315398 --launch-time-ticks=72752294 --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=139
+juanasoto          943   0.0  0.1 408251616  11968   ??  Ss   Tue03PM   0:00.09 /System/Library/PrivateFrameworks/IDSBlastDoorSupport.framework/Versions/A/XPCServices/IDSBlastDoorService.xpc/Contents/MacOS/IDSBlastDoorService
+juanasoto          932   0.0  5.0 1602584880 832992   ??  S    Tue03PM  37:35.17 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=11 --time-ticks-at-unix-epoch=-1681853409315398 --launch-time-ticks=66656048 --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=117
+juanasoto          930   0.0  0.1 409924544  14592   ??  Ss   Tue03PM   0:00.81 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+juanasoto          920   0.0  0.0 408233008   3312   ??  Ss   Tue03PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+juanasoto          919   0.0  0.1 409510528  15648   ??  Ss   Tue03PM   0:00.20 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto          914   0.0  0.2 442059952  33632   ??  S    Tue03PM   4:14.52 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --message-loop-type-ui --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=117
+juanasoto          904   0.0  0.1 408299360  10048   ??  S    Tue03PM   0:00.34 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+root               901   0.0  0.0 408285792   5376   ??  Ss   Tue03PM   2:43.15 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/Contents/MacOS/ANECompilerService
+root               900   0.0  0.0 408254128   6656   ??  Ss   Tue03PM   0:02.03 /usr/libexec/aned
+root               892   0.0  0.0 408194544   2688   ??  Ss   Tue03PM   0:00.02 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+juanasoto          889   0.0  0.0 408064064   2256   ??  Ss   Tue03PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+_fpsd              887   0.0  0.0 408216912   5040   ??  Ss   Tue03PM   0:00.15 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+juanasoto          885   0.0  0.1 408311376  22704   ??  S    Tue03PM   0:00.98 /usr/libexec/adprivacyd
+juanasoto          884   0.0  0.1 408305040  18272   ??  S    Tue03PM   0:00.94 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+juanasoto          883   0.0  0.1 408299408  11792   ??  S    Tue03PM   0:00.11 /usr/libexec/diagnosticextensionsd
+juanasoto          882   0.0  0.1 408225872  10144   ??  S    Tue03PM   0:05.21 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+juanasoto          881   0.0  0.0 408250432   7696   ??  S    Tue03PM   0:02.11 /usr/libexec/gamecontrolleragentd
+juanasoto          734   0.0  0.1 408226576   9856   ??  S    Tue03PM   0:00.83 /System/Library/CoreServices/diagnostics_agent
+_accessoryupdater   874   0.0  0.0 408185312   3392   ??  S    Tue03PM   0:00.90 /usr/sbin/distnoted agent
+juanasoto          704   0.0  0.0 408225600   8224   ??  S    Tue03PM   0:00.17 /usr/libexec/MTLAssetUpgraderD
+_gamecontrollerd   873   0.0  0.0 408185312   3968   ??  S    Tue03PM   0:00.92 /usr/sbin/distnoted agent
+juanasoto          720   0.0  0.1 408235840  16864   ??  S    Tue03PM   0:02.45 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+juanasoto          783   0.0  0.1 408225456  10736   ??  S    Tue03PM   0:03.09 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+juanasoto          872   0.0  0.1 408268848  11936   ??  Ss   Tue03PM   0:00.76 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+_nearbyd           871   0.0  0.1 408306544  14816   ??  Ss   Tue03PM   0:10.94 /usr/libexec/nearbyd
+juanasoto          870   0.0  0.2 408313024  25600   ??  S    Tue03PM   0:39.02 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+juanasoto          869   0.0  0.0 408516352   7888   ??  S    Tue03PM   0:00.32 /usr/libexec/SidecarRelay
+root               868   0.0  0.1 408225856  10192   ??  Ss   Tue03PM   0:05.91 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+juanasoto          863   0.0  0.0 408242224   5824   ??  S    Tue03PM   0:00.02 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+juanasoto          861   0.0  0.2 412962128  36960   ??  Ss   Tue03PM   0:01.87 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_softwareupdate    860   0.0  0.0 408214544   2880   ??  S    Tue03PM   0:00.05 /usr/sbin/cfprefsd agent
+_softwareupdate    857   0.0  0.0 408243248   4912   ??  S    Tue03PM   0:00.02 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_softwareupdate    855   0.0  0.2 412950256  34048   ??  Ss   Tue03PM   0:00.88 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+root               854   0.0  0.0 408170208   7040   ??  S    Tue03PM   0:01.37 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               755   0.0  0.1 408231552   9728   ??  Ss   Tue03PM   0:00.87 /System/Library/CoreServices/SubmitDiagInfo server-init
+root               853   0.0  0.0 408091344   3072   ??  Ss   Tue03PM   0:08.56 /usr/libexec/sysmond
+root               852   0.0  0.1 408969568   9232   ??  Ss   Tue03PM   0:00.15 /private/var/db/com.apple.xpc.roleaccountd.staging/com.apple.NRD.UpdateBrainService.16777232.8058419.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+_softwareupdate    851   0.0  0.0 408261840   6992   ??  Ss   Tue03PM   0:00.05 /usr/libexec/NRDUpdated
+juanasoto          850   0.0  0.0 408063456   3232   ??  S    Tue03PM   0:00.02 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+juanasoto          828   0.0  0.2 412769984  29632   ??  S    Tue03PM   0:06.68 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+_assetcache        820   0.0  0.0 408185312   4544   ??  S    Tue03PM   0:00.91 /usr/sbin/distnoted agent
+root               813   0.0  0.1 408229568   9472   ??  Ss   Tue03PM   0:00.18 /usr/libexec/symptomsd-diag
+juanasoto          809   0.0  0.1 408264752  19520   ??  SN   Tue03PM   0:04.20 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+juanasoto          808   0.0  0.2 408438400  26336   ??  S    Tue03PM   0:01.31 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+root               805   0.0  0.1 408287856  11632   ??  Ss   Tue03PM   0:03.63 /usr/libexec/rtcreportingd
+juanasoto          728   0.0  0.1 408236704  14576   ??  S    Tue03PM   0:01.56 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+juanasoto          556   0.0  0.1 408256464  14256   ??  S    Tue03PM   0:00.99 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+juanasoto          737   0.0  0.2 408263232  28192   ??  S    Tue03PM   0:05.49 /usr/libexec/remindd
+juanasoto          565   0.0  0.1 408318112  21808   ??  S    Tue03PM   0:08.78 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+juanasoto          733   0.0  0.2 408309712  27456   ??  S    Tue03PM   0:05.03 /System/Library/CoreServices/cloudpaird
+juanasoto          719   0.0  0.1 408306064  20032   ??  S    Tue03PM   0:02.68 /System/Library/PrivateFrameworks/People.framework/peopled
+juanasoto          738   0.0  0.1 408303136  18000   ??  S    Tue03PM   0:02.38 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+_gamecontrollerd   548   0.0  0.0 408261888   8080   ??  Ss   Tue03PM   0:02.54 /usr/libexec/gamecontrollerd
+root               798   0.0  0.0 408229168   4464   ??  Ss   Tue03PM   0:00.06 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+_assetcache        797   0.0  0.1 408227648  10240   ??  Ss   Tue03PM   0:00.09 /usr/libexec/AssetCache/AssetCache
+juanasoto          796   0.0  0.1 408286080  11728   ??  S    Tue03PM   0:00.39 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+juanasoto          795   0.0  0.1 408268656  10384   ??  S    Tue03PM   0:00.09 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+juanasoto          793   0.0  0.1 408319696  23728   ??  S    Tue03PM   0:00.68 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+juanasoto          792   0.0  0.1 408298768  11856   ??  S    Tue03PM   0:00.09 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+juanasoto          790   0.0  0.0 408091760   2736   ??  Ss   Tue03PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+juanasoto          789   0.0  0.1 408298480  11344   ??  S    Tue03PM   0:06.19 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+_nsurlsessiond     788   0.0  0.0 408185312   4016   ??  S    Tue03PM   0:00.95 /usr/sbin/distnoted agent
+juanasoto          787   0.0  0.2 408316208  26560   ??  S    Tue03PM   0:07.69 /usr/libexec/searchpartyuseragent
+juanasoto          774   0.0  0.1 408695840  10272   ??  Ss   Tue03PM   0:00.06 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+juanasoto          781   0.0  0.1 408305024  22144   ??  S    Tue03PM   0:01.47 /usr/libexec/fmfd
+juanasoto          778   0.0  0.0 408137184   5664   ??  S    Tue03PM   0:00.90 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+juanasoto          775   0.0  0.0 408290992   5680   ??  Ss   Tue03PM   0:00.01 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+_spotlight         769   0.0  0.0 408185312   4256   ??  S    Tue03PM   0:00.93 /usr/sbin/distnoted agent
+juanasoto          779   0.0  0.1 408301392  20736   ??  S    Tue03PM   0:00.25 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+juanasoto          782   0.0  0.0 408158880   5824   ??  S    Tue03PM   0:00.01 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+juanasoto          773   0.0  0.1 408304464  17168   ??  S    Tue03PM   0:00.47 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+juanasoto          762   0.0  0.0 408305552   7504   ??  Ss   Tue03PM   0:00.02 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+juanasoto          784   0.0  0.1 408298576  17536   ??  S    Tue03PM   0:00.59 /System/Library/PrivateFrameworks/FinanceKit.framework/financed
+juanasoto          767   0.0  0.2 408307824  31776   ??  S    Tue03PM   5:16.43 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+juanasoto          770   0.0  0.1 408306096  22720   ??  S    Tue03PM   0:01.58 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+juanasoto          776   0.0  0.1 408298224  11856   ??  S    Tue03PM   0:00.61 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+_locationd         772   0.0  0.2 408324848  29024   ??  Ss   Tue03PM   0:55.68 /usr/libexec/locationd
+juanasoto          763   0.0  0.4 409011728  72352   ??  S    Tue03PM   0:06.76 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+juanasoto          777   0.0  0.1 409400032  23088   ??  S    Tue03PM   0:01.64 /usr/libexec/avconferenced
+_driverkit         765   0.0  0.0 408497872   1952   ??  Ss   Tue03PM   0:00.05 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000d38 com.apple.IOUserBluetoothSerialDriver
+juanasoto          764   0.0  0.0 408299200   6800   ??  Ss   Tue03PM   0:00.03 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+juanasoto          757   0.0  0.1 408311312  11232   ??  S    Tue03PM   0:09.68 /System/Library/CoreServices/ReportCrash agent
+juanasoto          756   0.0  0.1 408304976  14384   ??  S    Tue03PM   0:00.57 /usr/libexec/neagent
+juanasoto          753   0.0  0.3 409515792  44144   ??  Ss   Tue03PM   0:01.13 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+juanasoto          752   0.0  0.1 408168624  16720   ??  Ss   Tue03PM   0:00.30 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+root               751   0.0  0.0 408225584   2960   ??  Ss   Tue03PM   0:00.01 /usr/libexec/misagent
+juanasoto          749   0.0  0.2 408308400  31552   ??  S    Tue03PM   0:48.10 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+juanasoto          744   0.0  0.0 408268416   7168   ??  S    Tue03PM   0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+juanasoto          746   0.0  0.1 408420048  24848   ??  S    Tue03PM   0:00.15 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+juanasoto          748   0.0  0.1 408305648  13120   ??  Ss   Tue03PM   0:00.47 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+juanasoto          747   0.0  0.1 408298096  11728   ??  Ss   Tue03PM   0:00.37 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+juanasoto          743   0.0  0.1 408353408  23584   ??  S    Tue03PM   0:00.76 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+juanasoto          717   0.0  0.2 408306064  27136   ??  S    Tue03PM   0:15.82 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+juanasoto          735   0.0  0.1 408093520   8672   ??  S    Tue03PM   0:00.05 /usr/libexec/bluetoothuserd
+juanasoto          727   0.0  0.0 408298816   8144   ??  S    Tue03PM   0:00.07 /System/Library/Image Capture/Support/icdd
+root               740   0.0  0.0 408268384   7600   ??  Ss   Tue03PM   0:00.12 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+juanasoto          732   0.0  0.2 408302288  29584   ??  S    Tue03PM   0:01.11 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+juanasoto          718   0.0  0.4 408334288  68032   ??  S    Tue03PM  51:50.66 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+juanasoto          716   0.0  0.1 408255088  20832   ??  S    Tue03PM   0:00.09 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+juanasoto          730   0.0  0.1 409816832  23456   ??  S    Tue03PM   0:00.66 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+juanasoto          736   0.0  0.2 410088416  33184   ??  S    Tue03PM   0:01.41 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+juanasoto          726   0.0  0.2 410055120  34240   ??  S    Tue03PM   0:20.05 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+_cmiodalassistants   715   0.0  0.0 408290336   7952   ??  S    Tue03PM   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_cmiodalassistants   714   0.0  0.1 408227440   9376   ??  S    Tue03PM   0:00.37 /usr/libexec/trustd --agent
+_cmiodalassistants   713   0.0  0.0 408219664   4832   ??  S    Tue03PM   0:00.05 /usr/sbin/cfprefsd agent
+_cmiodalassistants   712   0.0  0.0 408254496   6096   ??  S    Tue03PM   0:00.05 /usr/libexec/secinitd
+_cmiodalassistants   709   0.0  0.1 408326368  19040   ??  S    Tue03PM   0:02.91 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+juanasoto          705   0.0  0.1 408307072  22064   ??  S    Tue03PM   0:01.70 /usr/libexec/networkserviceproxy
+juanasoto          708   0.0  0.2 408309456  34944   ??  S    Tue03PM   1:17.53 /usr/libexec/siriknowledged
+root               702   0.0  0.1 408299040  14768   ??  Ss   Tue03PM   0:00.76 /usr/libexec/wifivelocityd
+juanasoto          703   0.0  0.3 408357424  51920   ??  S    Tue03PM   0:27.95 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+juanasoto          707   0.0  0.1 408293632  14848   ??  S    Tue03PM   0:00.40 /usr/libexec/linkd
+juanasoto          706   0.0  0.1 408299344  10128   ??  S    Tue03PM   0:01.26 /usr/libexec/swcd
+juanasoto          701   0.0  0.0 408260160   7184   ??  S    Tue03PM   0:00.18 /usr/libexec/WiFiVelocityAgent
+juanasoto          699   0.0  0.2 408532592  41216   ??  S    Tue03PM   0:05.86 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+root               626   0.0  0.1 409008528  14176   ??  Ss   Tue03PM   0:00.77 /private/var/db/com.apple.xpc.roleaccountd.staging/com.apple.MobileSoftwareUpdate.UpdateBrainService.16777232.8987730.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.UpdateBrainService
+juanasoto          698   0.0  0.0 408260208   5296   ??  S    Tue03PM   0:00.01 /usr/libexec/loginitemregisterd
+juanasoto          697   0.0  0.3 441942576  46304   ??  S    Tue03PM   0:04.96 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Alerts).app/Contents/MacOS/Google Chrome Helper (Alerts) --type=utility --utility-sub-type=mac_notifications.mojom.MacNotificationProvider --lang=en-US --service-sandbox-type=none --message-loop-type-ui --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072
+juanasoto          696   0.0  0.3 441932192  48912   ??  S    Tue03PM   0:08.21 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=36
+juanasoto          695   0.0  0.1 409269840  13536   ??  Ss   Tue03PM  11:19.96 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+juanasoto          614   0.0  0.1 408309312  24704   ??  S    Tue03PM   0:08.69 /usr/libexec/ContinuityCaptureAgent
+juanasoto          690   0.0  0.1 408698864  15584   ??  S    Tue03PM   0:00.19 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+_fpsd              683   0.0  0.0 408088064   4704   ??  Ss   Tue03PM   0:01.86 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+_cmiodalassistants   685   0.0  0.1 408294832  17616   ??  Ss   Tue03PM   0:00.59 /usr/sbin/appleh13camerad
+juanasoto          684   0.0  0.0 408064192   4208   ??  S    Tue03PM   0:00.01 /usr/libexec/spindump_agent
+root               682   0.0  0.1 408281760  14336   ??  Ss   Tue03PM   0:02.09 /usr/sbin/spindump
+root               681   0.0  0.1 408298320   9744   ??  Ss   Tue03PM   0:00.09 /usr/libexec/mobileactivationd
+juanasoto          680   0.0  0.1 408323664  21392   ??  Ss   Tue03PM   0:01.11 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-MX", "es-MX")
+root               679   0.0  0.1 409387840   9216   ??  Ss   Tue03PM   0:00.08 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBehaviorService.xpc/Contents/MacOS/XProtectBehaviorService
+juanasoto          678   0.0  0.1 408324208  22432   ??  S    Tue03PM   0:04.43 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+juanasoto          676   0.0  0.2 408336576  30608   ??  S    Tue03PM   0:03.41 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+juanasoto          677   0.0  0.1 408307200  18336   ??  S    Tue03PM   0:02.19 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+root               666   0.0  0.4 409845520  63168   ??  Ss   Tue03PM   0:02.85 /Library/Application Support/com.canonical.multipass/bin/multipassd --verbosity debug
+juanasoto          660   0.0  0.0 408252144   8384   ??  S    Tue03PM   0:00.09 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+juanasoto          663   0.0  0.0 408815888   4608 s000  S    Tue03PM   0:04.42 -zsh
+root               662   0.0  0.0 408215600   7488   ??  Ss   Tue03PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               661   0.0  0.0 408692544   6528 s000  Ss   Tue03PM   0:00.01 login -pfl juanasoto /bin/bash -c exec -la zsh /bin/zsh
+_ctkd              658   0.0  0.0 408260768   6256   ??  Ss   Tue03PM   0:00.02 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+root               656   0.0  0.0 408260672   5680   ??  Ss   Tue03PM   0:00.03 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+juanasoto          659   0.0  0.1 408300400  12688   ??  S    Tue03PM   0:00.44 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+juanasoto          657   0.0  0.1 408313296  15792   ??  Ss   Tue03PM   0:00.04 /System/Applications/Home.app/Contents/PlugIns/HomeWidget.appex/Contents/MacOS/HomeWidget
+juanasoto          649   0.0  0.1 408300672  20512   ??  S    Tue03PM   0:02.29 /usr/libexec/triald
+root               652   0.0  0.1 408316464  18592   ??  Ss   Tue03PM   0:00.81 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+juanasoto          655   0.0  0.6 442134224  93536   ??  S    Tue03PM   3:15.81 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=20
+juanasoto          654   0.0  1.0 442386016 170896   ??  S    Tue03PM  41:49.65 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --gpu-preferences=UAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAAwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAGgHAAAAAAAAaAcAAAAAAAB4AgAATgAAAHACAAAAAAAAeAIAAAAAAACAAgAAAAAAAIgCAAAAAAAAkAIAAAAAAACYAgAAAAAAAKACAAAAAAAAqAIAAAAAAACwAgAAAAAAALgCAAAAAAAAwAIAAAAAAADIAgAAAAAAANACAAAAAAAA2AIAAAAAAADgAgAAAAAAAOgCAAAAAAAA8AIAAAAAAAD4AgAAAAAAAAADAAAAAAAACAMAAAAAAAAQAwAAAAAAABgDAAAAAAAAIAMAAAAAAAAoAwAAAAAAADADAAAAAAAAOAMAAAAAAABAAwAAAAAAAEgDAAAAAAAAUAMAAAAAAABYAwAAAAAAAGADAAAAAAAAaAMAAAAAAABwAwAAAAAAAHgDAAAAAAAAgAMAAAAAAACIAwAAAAAAAJADAAAAAAAAmAMAAAAAAACgAwAAAAAAAKgDAAAAAAAAsAMAAAAAAAC4AwAAAAAAAMADAAAAAAAAyAMAAAAAAADQAwAAAAAAANgDAAAAAAAA4AMAAAAAAADoAwAAAAAAAPADAAAAAAAA+AMAAAAAAAAABAAAAAAAAAgEAAAAAAAAEAQAAAAAAAAYBAAAAAAAACAEAAAAAAAAKAQAAAAAAAAwBAAAAAAAADgEAAAAAAAAQAQAAAAAAABIBAAAAAAAAFAEAAAAAAAAWAQAAAAAAABgBAAAAAAAAGgEAAAAAAAAcAQAAAAAAAB4BAAAAAAAAIAEAAAAAAAAiAQAAAAAAACQBAAAAAAAAJgEAAAAAAAAoAQAAAAAAACoBAAAAAAAALAEAAAAAAAAuAQAAAAAAADABAAAAAAAAMgEAAAAAAAA0AQAAAAAAADYBAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAABAAAAEAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAJAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAAAAAAADwAAABAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAABAAAAAQAAABAAAAAAAAAAAQAAAAIAAAAQAAAAAAAAAAEAAAADAAAAEAAAAAAAAAABAAAABgAAABAAAAAAAAAAAQAAAAcAAAAQAAAAAAAAAAEAAAAIAAAAEAAAAAAAAAABAAAACQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADgAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAEAAAAQAAAAEAAAAAAAAAAEAAAAAAAAABAAAAAAAAAABAAAAAEAAAAQAAAAAAAAAAQAAAACAAAAEAAAAAAAAAAEAAAAAwAAABAAAAAAAAAABAAAAAYAAAAQAAAAAAAAAAQAAAAHAAAAEAAAAAAAAAAEAAAACAAAABAAAAAAAAAABAAAAAkAAAAQAAAAAAAAAAQAAAALAAAAEAAAAAAAAAAEAAAADAAAABAAAAAAAAAABAAAAA4AAAAQAAAAAAAAAAQAAAAPAAAAEAAAAAAAAAAEAAAAEAAAABAAAAAAAAAABwAAAAAAAAAQAAAAAAAAAAcAAAABAAAAEAAAAAAAAAAHAAAAAgAAABAAAAAAAAAABwAAAAMAAAAQAAAAAAAAAAcAAAAGAAAAEAAAAAAAAAAHAAAABwAAABAAAAAAAAAABwAAAAgAAAAQAAAAAAAAAAcAAAAJAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAAwAAAAQAAAAAAAAAAcAAAAOAAAAEAAAAAAAAAAHAAAADwAAABAAAAAAAAAABwAAABAAAAAQAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAIAAAAAQAAABAAAAAAAAAACAAAAAIAAAAQAAAAAAAAAAgAAAADAAAAEAAAAAAAAAAIAAAABgAAABAAAAAAAAAACAAAAAcAAAAQAAAAAAAAAAgAAAAIAAAAEAAAAAAAAAAIAAAACQAAABAAAAAAAAAACAAAAAsAAAAQAAAAAAAAAAgAAAAMAAAAEAAAAAAAAAAIAAAADgAAABAAAAAAAAAACAAAAA8AAAAQAAAAAAAAAAgAAAAQAAAAEAAAAAAAAAAKAAAAAAAAABAAAAAAAAAACgAAAAEAAAAQAAAAAAAAAAoAAAACAAAAEAAAAAAAAAAKAAAAAwAAABAAAAAAAAAACgAAAAYAAAAQAAAAAAAAAAoAAAAHAAAAEAAAAAAAAAAKAAAACAAAABAAAAAAAAAACgAAAAkAAAAQAAAAAAAAAAoAAAALAAAAEAAAAAAAAAAKAAAADAAAABAAAAAAAAAACgAAAA4AAAAQAAAAAAAAAAoAAAAPAAAAEAAAAAAAAAAKAAAAEAAAAAgAAAAAAAAACAAAAAAAAAA= --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=20
+juanasoto          653   0.0  0.1 408275760  10128   ??  Ss   Tue03PM   0:01.29 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+juanasoto          648   0.0  0.2 410053792  27856   ??  S    Tue03PM   0:00.68 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+juanasoto          647   0.0  0.1 408299056  10336   ??  S    Tue03PM   0:00.21 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+_oahd              646   0.0  0.0 408515360   4240   ??  Ss   Tue03PM   0:05.05 /usr/libexec/rosetta/oahd
+juanasoto          644   0.0  0.6 408687376  94336   ??  S    Tue03PM   0:35.90 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+juanasoto          570   0.0  0.2 408426240  28752   ??  S    Tue03PM   0:12.56 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+juanasoto          640   0.0  0.1 408298992  14976   ??  S    Tue03PM   0:02.16 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+juanasoto          639   0.0  0.1 408312160  21360   ??  S    Tue03PM   0:01.50 /usr/libexec/transparencyd
+juanasoto          645   0.0  0.0 34046636   8116   ??  Ss   Tue03PM   0:00.99 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+juanasoto          643   0.0  0.2 410052400  31120   ??  S    Tue03PM   0:00.75 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+juanasoto          641   0.0  0.1 408298608  10432   ??  S    Tue03PM   0:00.16 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+juanasoto          637   0.0  0.1 408298704  17968   ??  S    Tue03PM   0:00.26 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+juanasoto          638   0.0  0.5 410188544  83424   ??  S    Tue03PM   0:14.95 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+juanasoto          636   0.0  0.1 408232576  12176   ??  S    Tue03PM   0:00.06 /usr/libexec/replayd
+juanasoto          633   0.0  0.1 408301552  12240   ??  S    Tue03PM   0:00.44 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+juanasoto          634   0.0  0.2 408316560  39904   ??  S    Tue03PM   1:03.06 /usr/libexec/sharingd
+juanasoto          628   0.0  0.0 408174512   7488   ??  S    Tue03PM   0:00.11 /System/Library/CoreServices/pbs
+juanasoto          632   0.0  0.1 408305808  18256   ??  S    Tue03PM   0:03.16 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+juanasoto          621   0.0  0.1 408306496  10816   ??  S    Tue03PM   0:00.08 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+juanasoto          617   0.0  0.2 408320704  36160   ??  S    Tue03PM   0:21.25 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+juanasoto          618   0.0  0.1 408306912  22000   ??  S    Tue03PM   0:10.41 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+juanasoto          619   0.0  0.1 408316256  20816   ??  S    Tue03PM   0:01.06 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+juanasoto          627   0.0  0.1 408306864  21616   ??  S    Tue03PM   0:00.88 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+root               629   0.0  0.1 408299728   8624   ??  Ss   Tue03PM   0:00.15 /usr/libexec/xpcroleaccountd -launchd
+juanasoto          631   0.0  0.0 441651408   5376   ??  S    Tue03PM   0:00.05 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/juanasoto/Library/Application Support/Google/Chrome/Crashpad --metrics-dir=/Users/juanasoto/Library/Application Support/Google/Chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=112.0.5615.121 --handshake-fd=5
+juanasoto          616   0.0  0.1 408299136  14528   ??  S    Tue03PM   0:03.00 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+root               624   0.0  0.1 408168400  11840   ??  Ss   Tue03PM   0:00.05 /usr/libexec/findmydeviced
+root               625   0.0  0.1 409528448  15024   ??  Ss   Tue03PM   0:00.18 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+juanasoto          615   0.0  0.1 408306576  22544   ??  S    Tue03PM   0:01.46 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+juanasoto          613   0.0  0.2 408308624  25696   ??  S    Tue03PM   0:03.68 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+juanasoto          610   0.0  0.1 408306160  18304   ??  S    Tue03PM   0:03.85 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+root               620   0.0  0.0 408138976   5840   ??  Ss   Tue03PM   0:00.02 automountd
+juanasoto          612   0.0  0.1 408828832  22608   ??  S    Tue03PM   0:00.48 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+juanasoto          611   0.0  0.3 408810048  48384   ??  Ss   Tue03PM   0:02.75 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+juanasoto          607   0.0  0.1 408301360  14048   ??  S    Tue03PM   0:00.17 /System/Library/CoreServices/sharedfilelistd
+juanasoto          608   0.0  0.1 409480336  11696   ??  S    Tue03PM   0:04.71 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+juanasoto          604   0.0  0.1 408323600  21232   ??  S    Tue03PM   0:03.49 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+root               609   0.0  0.1 408306384   9568   ??  Ss   Tue03PM   0:00.07 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+juanasoto          606   0.0  0.3 408342096  53216   ??  S    Tue03PM   0:28.97 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+juanasoto          605   0.0  0.2 408333040  41776   ??  S    Tue03PM   0:11.24 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+juanasoto          603   0.0  0.2 408309728  26544   ??  S    Tue03PM   0:05.70 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+_iconservices      336   0.0  0.0 408299104   7456   ??  Ss   Tue03PM   0:00.06 /System/Library/CoreServices/iconservicesd
+juanasoto          602   0.0  0.2 408308160  29024   ??  S    Tue03PM   0:14.02 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+juanasoto          587   0.0  0.2 408312576  34976   ??  S    Tue03PM   0:06.38 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+juanasoto          581   0.0  0.1 408423008  22864   ??  S    Tue03PM   0:00.64 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+juanasoto          592   0.0  0.1 408322240  15232   ??  S    Tue03PM   0:00.60 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+juanasoto          601   0.0  0.1 408315024  18288   ??  S    Tue03PM   0:00.57 /System/Library/CoreServices/iconservicesagent
+root               598   0.0  0.1 408302688  10528   ??  Ss   Tue03PM   0:13.61 /usr/libexec/storagekitd
+juanasoto          600   0.0  0.0 408138432   5440   ??  S    Tue03PM   0:12.31 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+juanasoto          599   0.0  0.3 410139312  50784   ??  S    Tue03PM   0:01.99 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+juanasoto          597   0.0  0.1 408307392  17728   ??  S    Tue03PM   0:20.99 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+juanasoto          591   0.0  0.2 408457920  30160   ??  S    Tue03PM   0:00.63 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+root               589   0.0  0.1 408313520  12240   ??  Ss   Tue03PM   0:01.29 /usr/sbin/systemsoundserverd
+juanasoto          596   0.0  0.1 408298528  12160   ??  S    Tue03PM   0:02.86 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+juanasoto          593   0.0  0.1 408308352  21536   ??  S    Tue03PM   0:01.09 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+juanasoto          595   0.0  0.1 408305136  17392   ??  S    Tue03PM   0:02.39 /usr/libexec/pkd
+juanasoto          594   0.0  0.2 408970656  38080   ??  Ss   Tue03PM   0:01.13 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root               590   0.0  0.1 408276336  11616   ??  Ss   Tue03PM   0:00.48 /usr/sbin/filecoordinationd
+juanasoto          588   0.0  0.1 408259120  10176   ??  S    Tue03PM   0:00.24 /usr/libexec/pboard
+root               586   0.0  0.1 408299760  11024   ??  Ss   Tue03PM   0:11.54 /usr/sbin/WirelessRadioManagerd
+juanasoto          585   0.0  0.1 408301680  13936   ??  S    Tue03PM   0:02.84 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+juanasoto          582   0.0  1.0 410233456 167632   ??  S    Tue03PM   0:46.32 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+juanasoto          580   0.0  0.2 410088080  40704   ??  S    Tue03PM   0:01.28 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+juanasoto          578   0.0  0.4 410029024  68112   ??  S    Tue03PM   0:43.23 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+juanasoto          574   0.0  0.1 408299552  10544   ??  S    Tue03PM   0:01.02 /usr/libexec/secinitd
+juanasoto          575   0.0  0.2 408316720  31808   ??  S    Tue03PM   0:45.21 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+juanasoto          576   0.0  1.5 410314112 243312   ??  S    Tue03PM   3:13.62 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+juanasoto          573   0.0  0.1 408304544  14736   ??  S    Tue03PM   0:00.33 /usr/libexec/dmd
+juanasoto          569   0.0  0.2 408329568  33040   ??  S    Tue03PM   0:20.78 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+juanasoto          572   0.0  0.1 408309520  16592   ??  S    Tue03PM   0:27.21 /usr/libexec/trustd --agent
+juanasoto          568   0.0  0.1 408308624  23840   ??  S    Tue03PM   0:01.04 /usr/sbin/usernoted
+juanasoto          567   0.0  0.2 408301040  25856   ??  S    Tue03PM   0:06.58 /usr/libexec/rapportd
+juanasoto          564   0.0  0.1 408299840  12944   ??  S    Tue03PM   0:09.53 /System/Library/CoreServices/lockoutagent
+juanasoto          566   0.0  0.2 408331152  25520   ??  S    Tue03PM   0:18.89 /usr/libexec/nsurlsessiond
+_appleevents       562   0.0  0.0 408185312   3552   ??  S    Tue03PM   0:00.91 /usr/sbin/distnoted agent
+juanasoto          561   0.0  0.0 408128592   6048   ??  S    Tue03PM   0:00.03 /System/Library/CoreServices/APFSUserAgent
+juanasoto          560   0.0  0.2 408352432  27136   ??  S    Tue03PM   0:00.80 /System/Library/CoreServices/talagent
+juanasoto          559   0.0  0.1 408312032  25120   ??  S    Tue03PM   0:02.85 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+juanasoto          557   0.0  0.2 408530368  28192   ??  S    Tue03PM   0:09.72 /usr/libexec/secd
+juanasoto          555   0.0  0.0 408137744   3760   ??  S    Tue03PM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+juanasoto          554   0.0  0.1 408317088  21520   ??  S    Tue03PM   0:00.76 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+juanasoto          552   0.0  0.1 408307552  19760   ??  S    Tue03PM   0:02.41 /usr/libexec/lsd
+juanasoto          553   0.0  0.2 409688816  34304   ??  S    Tue03PM   0:18.08 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+juanasoto          551   0.0  0.2 408313440  32896   ??  S    Tue03PM   0:21.59 /usr/libexec/knowledge-agent
+juanasoto          547   0.0  0.1 408304176  19984   ??  S    Tue03PM   0:08.41 /usr/libexec/UserEventAgent (Aqua)
+juanasoto          550   0.0  0.1 409677584  18192   ??  S    Tue03PM   0:02.40 /usr/sbin/universalaccessd launchd -s
+root               546   0.0  0.1 408121600  13472   ??  Ss   Tue03PM   0:00.09 /System/Library/PrivateFrameworks/SiriInference.framework/Support/siriinferenced
+root               545   0.0  0.0 408225840   6560   ??  Ss   Tue03PM   0:00.04 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+root               397   0.0  0.0 408224256   3952   ??  Ss   Tue03PM   0:00.06 /usr/libexec/usbd
+root               385   0.0  0.0 408194704   5360   ??  Ss   Tue03PM   0:00.34 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root               542   0.0  0.8 411592768 126144   ??  Ss   Tue03PM   1:13.64 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               540   0.0  0.1 408303200  20448   ??  Ss   Tue03PM   0:02.85 /usr/libexec/wifianalyticsd
+root               539   0.0  0.0 408132208   4752   ??  Ss   Tue03PM   0:00.11 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+_softwareupdate    537   0.0  0.0 408185312   3280   ??  S    Tue03PM   0:00.96 /usr/sbin/distnoted agent
+root               538   0.0  0.1 408262688   8560   ??  Ss   Tue03PM   0:00.05 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+_locationd         535   0.0  0.0 408271904   7536   ??  S    Tue03PM   0:00.08 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_softwareupdate    329   0.0  0.1 408301296   9616   ??  Ss   Tue03PM   0:00.35 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_locationd         533   0.0  0.1 408266976  11728   ??  S    Tue03PM   0:00.58 /usr/libexec/trustd --agent
+_locationd         532   0.0  0.0 408219664   6016   ??  S    Tue03PM   0:00.06 /usr/sbin/cfprefsd agent
+_locationd         531   0.0  0.0 408273952   8320   ??  S    Tue03PM   0:00.06 /usr/libexec/secinitd
+_locationd         530   0.0  0.0 408185312   4704   ??  S    Tue03PM   0:01.26 /usr/sbin/distnoted agent
+_locationd         529   0.0  0.1 408346080  19392   ??  S    Tue03PM   0:03.00 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+_softwareupdate    528   0.0  0.4 412736160  71680   ??  Ss   Tue03PM   0:13.10 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+_captiveagent      527   0.0  0.0 408253232   6752   ??  Ss   Tue03PM   0:00.10 /usr/libexec/captiveagent
+root               526   0.0  0.0 408228016   5376   ??  Ss   Tue03PM   0:00.95 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               401   0.0  0.3 408315264  48752   ??  Ss   Tue03PM   0:34.51 /usr/libexec/mobileassetd
+root               525   0.0  0.1 408226000   8496   ??  Ss   Tue03PM   0:00.02 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root               520   0.0  0.0 408235104   4864   ??  Ss   Tue03PM   0:00.04 /usr/libexec/securityd_service
+juanasoto          518   0.0  0.0 408186336   6176   ??  S    Tue03PM   0:26.38 /usr/sbin/distnoted agent
+juanasoto          519   0.0  0.0 408270368   7280   ??  S    Tue03PM   0:12.25 /usr/sbin/cfprefsd agent
+root               515   0.0  0.1 408300064  12976   ??  Ss   Tue03PM   0:00.44 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               512   0.0  0.1 408279792  11616   ??  Ss   Tue03PM   0:00.13 /System/Library/CoreServices/osanalyticshelper server-init
+root               508   0.0  0.1 408191440  16512   ??  Ss   Tue03PM   0:06.09 /usr/libexec/wifip2pd
+root               507   0.0  0.0 408200320   6544   ??  Ss   Tue03PM   0:00.06 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+_cmiodalassistants   505   0.0  0.1 408301136   9472   ??  Ss   Tue03PM   0:00.53 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+root               503   0.0  0.0 408259632   4128   ??  Ss   Tue03PM   0:00.09 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+root               502   0.0  0.1 408302144  10704   ??  Ss   Tue03PM   0:00.41 /usr/libexec/diskmanagementd
+root               501   0.0  0.0 408065328   5504   ??  Ss   Tue03PM   0:00.02 /System/Library/CoreServices/ReportCrash daemon
+root               498   0.0  0.0 408203776   6720   ??  Ss   Tue03PM   0:00.04 /usr/libexec/bootinstalld
+_driverkit         496   0.0  0.0 408531792   2352   ??  Ss   Tue03PM   0:00.49 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000bbe com.apple.AppleUserHIDDrivers
+root               497   0.0  0.0 408265472   8224   ??  Ss   Tue03PM   0:02.50 /usr/sbin/mDNSResponderHelper
+_cmiodalassistants   493   0.0  0.0 408185312   3504   ??  S    Tue03PM   0:00.94 /usr/sbin/distnoted agent
+root               494   0.0  0.0 408274736   8256   ??  Ss   Tue03PM   0:00.06 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+_appleevents       495   0.0  0.1 408299488   8464   ??  Ss   Tue03PM   0:00.19 /System/Library/CoreServices/appleeventsd --server
+_netbios           491   0.0  0.0 408195488   5360   ??  SNs  Tue03PM   0:00.49 /usr/sbin/netbiosd
+root               492   0.0  0.0 408112000   2192   ??  Ss   Tue03PM   0:00.19 /usr/sbin/cron
+_driverkit         488   0.0  0.0 408496768   1552   ??  Ss   Tue03PM   0:00.07 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000bbd com.apple.DriverKit-IOUserDockChannelSerial
+root               486   0.0  0.2 408339984  25984   ??  Ss   Tue03PM   1:34.18 /usr/libexec/searchpartyd
+_coreaudiod        490   0.0  0.0 408222944   4928   ??  Ss   Tue03PM   0:00.01 /System/Library/PrivateFrameworks/ZhuGeSupport.framework/Versions/A/XPCServices/ZhuGeService.xpc/Contents/MacOS/ZhuGeService
+root               487   0.0  0.0 408268800   5392   ??  Ss   Tue03PM   0:00.22 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               485   0.0  0.0 408222176   6160   ??  Ss   Tue03PM   0:00.03 /usr/libexec/colorsyncd
+root               484   0.0  0.0 408082112   3280   ??  Ss   Tue03PM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+root               483   0.0  0.0 408229168   6144   ??  Ss   Tue03PM   0:00.04 /usr/sbin/BlueTool -R
+root               482   0.0  0.0 408693104   8288   ??  Ss   Tue03PM   0:23.89 /usr/sbin/audioclocksyncd
+root               481   0.0  0.0 408240672   4864   ??  Ss   Tue03PM   0:00.02 /usr/libexec/colorsync.displayservices
+_coreaudiod        480   0.0  0.0 408223792   7008   ??  Ss   Tue03PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               478   0.0  0.0 408243232   7616   ??  Ss   Tue03PM   0:00.09 /usr/libexec/containermanagerd --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               479   0.0  0.0 408250432   8176   ??  Ss   Tue03PM   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root               477   0.0  0.0 408196736   5936   ??  Ss   Tue03PM   0:02.54 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+_mdnsresponder     476   0.0  0.1 408307392  16304   ??  Ss   Tue03PM   0:21.07 /usr/sbin/mDNSResponder
+root               467   0.0  0.1 408291344   8800   ??  Ss   Tue03PM   0:00.04 /usr/libexec/secinitd
+_coreaudiod        475   0.0  0.0 408093712   3248   ??  Ss   Tue03PM   0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_windowserver      441   0.0  0.0 408185312   4544   ??  S    Tue03PM   0:00.91 /usr/sbin/distnoted agent
+root               457   0.0  0.0 408120432   3152   ??  Ss   Tue03PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               452   0.0  0.0 408232544   7264   ??  Ss   Tue03PM   0:00.04 /usr/libexec/trustdFileHelper
+_hidd              437   0.0  0.0 408137200   4272   ??  Ss   Tue03PM   0:02.08 /usr/libexec/hidd
+_analyticsd        390   0.0  0.1 408310336  19664   ??  Ss   Tue03PM   0:15.11 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_trustd            427   0.0  0.1 408311536  17488   ??  Ss   Tue03PM   0:18.78 /usr/libexec/trustd
+_networkd          419   0.0  0.1 408310992  17904   ??  Ss   Tue03PM   0:17.52 /usr/libexec/symptomsd
+root               433   0.0  0.1 408298544   8864   ??  Ss   Tue03PM   0:00.04 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               428   0.0  0.0 408075280   3088   ??  S    Tue03PM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+root               418   0.0  0.1 408300496  11680   ??  Ss   Tue03PM   0:02.19 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+_coreaudiod        405   0.0  0.0 408185312   4960   ??  S    Tue03PM   0:00.97 /usr/sbin/distnoted agent
+root               399   0.0  0.1 408299616  11664   ??  Ss   Tue03PM   0:01.06 /usr/libexec/biometrickitd --launchd
+root               395   0.0  0.2 408306336  31680   ??  Ss   Tue03PM   3:56.44 /usr/libexec/airportd
+_biome             322   0.0  0.1 408299264  15504   ??  Ss   Tue03PM   0:01.69 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               394   0.0  0.1 408298688  11248   ??  Ss   Tue03PM   0:00.92 /usr/libexec/nehelper
+root               400   0.0  0.0 408506704   3712   ??  Ss   Tue03PM   0:00.02 /usr/libexec/cryptexd
+_nsurlsessiond     392   0.0  0.1 408311872  18800   ??  Ss   Tue03PM   0:05.02 /usr/libexec/nsurlsessiond --privileged
+root               393   0.0  0.0 408129072   4176   ??  Ss   Tue03PM   0:00.27 /usr/libexec/apfsd
+_coreaudiod        396   0.0  0.5 409529152  82704   ??  Ss   Tue03PM  79:19.23 /usr/sbin/coreaudiod
+root               389   0.0  0.0 408185312   4992   ??  S    Tue03PM   0:01.03 /usr/sbin/distnoted agent
+_timed             349   0.0  0.0 408299200   7136   ??  Ss   Tue03PM   0:02.55 /usr/libexec/timed
+_distnote          359   0.0  0.0 408185312   6256   ??  Ss   Tue03PM   0:15.47 /usr/sbin/distnoted daemon
+root               386   0.0  0.1 408301264  15776   ??  Ss   Tue03PM   0:00.87 /usr/libexec/PowerUIAgent
+root               384   0.0  0.1 408324192  24928   ??  Ss   Tue03PM   0:18.70 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               383   0.0  0.1 408300912  10032   ??  Ss   Tue03PM   0:00.42 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               387   0.0  0.1 408308672  18384   ??  Ss   Tue03PM   0:46.05 /usr/libexec/runningboardd
+root               388   0.0  0.1 408288192  13952   ??  Ss   Tue03PM   0:00.71 /System/Library/CoreServices/coreservicesd
+root               380   0.0  0.0 408268528   1840   ??  Ss   Tue03PM   0:00.07 aslmanager
+_usbmuxd           350   0.0  0.1 408305168  10272   ??  Ss   Tue03PM   0:00.23 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+root               381   0.0  0.1 408306960  20512   ??  Ss   Tue03PM   0:04.19 /usr/libexec/lsd runAsRoot
+juanasoto          379   0.0  0.4 410112912  60192   ??  Ss   Tue03PM   0:11.77 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               378   0.0  0.2 408308016  26384   ??  Ss   Tue03PM   0:06.57 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               376   0.0  0.2 408314176  32544   ??  Ss   Tue03PM   0:25.50 /usr/libexec/syspolicyd
+root               357   0.0  0.1 408305120  21440   ??  Ss   Tue03PM   0:22.84 /usr/libexec/dasd
+root               309   0.0  0.0 408137856   4672   ??  Ss   Tue03PM   0:00.03 /usr/libexec/smd
+root               348   0.0  0.1 408301728  11568   ??  Ss   Tue03PM   0:51.37 /System/Library/CoreServices/launchservicesd
+root               342   0.0  0.0 408269472   2560   ??  Ss   Tue03PM   0:04.36 /usr/sbin/syslogd
+root               341   0.0  0.2 408323440  35168   ??  Ss   Tue03PM   0:18.45 /usr/libexec/coreduetd
+root               375   0.0  0.0 408268528   5616   ??  Ss   Tue03PM   0:00.14 /usr/libexec/logd_helper
+root               320   0.0  0.0 408063520   1952   ??  Ss   Tue03PM   0:00.01 endpointsecurityd
+root               314   0.0  0.2 408311040  28144   ??  Ss   Tue03PM   0:19.56 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               373   0.0  0.1 408299024  21200   ??  Ss   Tue03PM   0:00.32 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               364   0.0  0.0 408236208   6336   ??  Ss   Tue03PM   0:00.11 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               362   0.0  0.0 408063424    352   ??  Ss   Tue03PM   0:00.02 /usr/libexec/dirhelper
+root               317   0.0  0.1 408310064  19408   ??  Ss   Tue03PM   0:41.35 /usr/sbin/systemstats --daemon
+root               374   0.0  0.1 408269504   8976   ??  Ss   Tue03PM   0:20.56 /usr/sbin/cfprefsd daemon
+root               365   0.0  0.0 408094752   2784   ??  Ss   Tue03PM   0:00.01 /usr/sbin/KernelEventAgent
+root               351   0.0  0.1 408302464  12448   ??  Ss   Tue03PM   0:02.03 /usr/sbin/securityd -i
+root               368   0.0  0.2 408375872  37696   ??  Ss   Tue03PM   4:06.85 /usr/sbin/bluetoothd
+root               356   0.0  0.0 408196048   3440   ??  Ss   Tue03PM   0:00.02 autofsd
+root               352   0.0  0.0 408063424   2304   ??  Ss   Tue03PM   0:00.01 auditd -l
+root               360   0.0  0.0 408129648   5040   ??  Ss   Tue03PM   0:00.12 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root               345   0.0  0.0 408298512   5568   ??  Ss   Tue03PM   0:09.90 /usr/libexec/thermalmonitord
+root               347   0.0  0.1 408389648  20384   ??  Ss   Tue03PM   0:06.64 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               335   0.0  0.4 408656688  59088   ??  Ss   Tue03PM   1:02.83 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               331   0.0  0.0 408096864   4192   ??  Ss   Tue03PM   0:01.82 /usr/libexec/watchdogd
+root               328   0.0  0.0 408234704   5552   ??  Ss   Tue03PM   0:00.05 /usr/libexec/keybagd -t 15
+root               326   0.0  0.0 408298832   5376   ??  Ss   Tue03PM   0:00.04 /usr/libexec/remoted
+root               321   0.0  0.1 408300592  11936   ??  Ss   Tue03PM   0:32.47 /System/Library/CoreServices/powerd.bundle/powerd
+root               313   0.0  0.1 408415856  11600   ??  Ss   Tue03PM   1:16.53 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               319   0.0  0.1 408302896  14528   ??  Ss   Tue03PM   0:19.90 /usr/libexec/configd
+root               312   0.0  0.0 408066784   3424   ??  Ss   Tue03PM   0:02.05 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root               369   0.0  0.0 408260352   5968   ??  Ss   Tue03PM   0:20.32 /usr/sbin/notifyd
+root               370   0.0  0.1 408317040   9520   ??  Ss   Tue03PM   0:02.06 /usr/libexec/sandboxd
+root               372   0.0  0.1 408301120  15024   ??  Ss   Tue03PM   0:04.27 /usr/libexec/AirPlayXPCHelper
+root               366   0.0  0.0 408842176   8000   ??  Ss   Tue03PM   0:00.39 /usr/libexec/usermanagerd -t 15
+root               363   0.0  0.0 408137264   6192   ??  Ss   Tue03PM   0:00.07 /System/Library/CoreServices/logind
+root               337   0.0  0.1 408304320  20096   ??  Ss   Tue03PM   0:00.94 /usr/libexec/kernelmanagerd
+root               346   0.0  0.1 408326688  16144   ??  Ss   Tue03PM   1:04.90 /usr/libexec/opendirectoryd
+root               338   0.0  0.0 408298640   5808   ??  Ss   Tue03PM   0:02.16 /usr/libexec/diskarbitrationd
+root               324   0.0  0.1 408299824  12800   ??  Ss   Tue03PM   0:00.23 /usr/libexec/amfid
+root               310   0.0  0.1 408301328  18016   ??  Ss   Tue03PM   0:07.69 /usr/libexec/UserEventAgent (System)
+root             16221   0.0  0.0 408626848   1904 s000  R+    2:28PM   0:00.01 ps aux
+root                 1   0.0  0.2 409107296  26832   ??  Ss   Tue03PM   3:17.58 /sbin/launchd
+juanasoto        16053   0.0  0.1 408218832  19552   ??  S     2:25PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+juanasoto        15945   0.0  0.3 1593526352  55488   ??  S     2:23PM   0:00.04 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=212 --time-ticks-at-unix-epoch=-1681853409315398 --launch-time-ticks=43353536460 --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=56
+juanasoto        15656   0.0  0.1 408253216   9520   ??  S     1:15PM   0:00.14 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+juanasoto        11738   0.0  1.3 1595751568 220272   ??  S    10:47AM   0:06.02 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/112.0.5615.121/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --metrics-client-id=f6ec7720-2f86-48a2-8764-8db40a92018f --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=178 --time-ticks-at-unix-epoch=-1681853409315398 --launch-time-ticks=38971704492 --shared-files --field-trial-handle=1718379636,r,628182419641978517,13096221517293952091,131072 --seatbelt-client=113
+juanasoto        11469   0.0  0.2 409380720  27008   ??  Ss   10:43AM   0:00.27 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+juanasoto        11465   0.0  0.2 497395296  34256   ??  Ss   10:43AM   0:00.15 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+_accessoryupdater 11010   0.0  0.1 408224432   9680   ??  Ss    1:56AM   0:00.08 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/EAUpdaterService.xpc/Contents/MacOS/EAUpdaterService
+juanasoto         5050   0.0  0.1 409510032  12144   ??  Ss   11:37PM   0:00.12 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
